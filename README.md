@@ -31,4 +31,4 @@ HTML | CSS | Javascript | ReactJS | Firebase | Git | Python | NodeJS | FastAPI |
 
 Online code editor for teaching and learning, especially for programming skills.
 
-[Website](https://rpcide-web.netlify.app/)
+[Website](https://rpcide.vercel.app/)
