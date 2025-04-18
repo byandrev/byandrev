@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[Portfolio](https://byandrev-blog.vercel.app/) | [Twitter](https://twitter.com/byandrev) | [Linkedin](https://www.linkedin.com/in/byandrev/)
+[Portfolio](https://byandrev.dev) | [Twitter](https://twitter.com/byandrev) | [Linkedin](https://www.linkedin.com/in/byandrev/)
 
   
 </div>
