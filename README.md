@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[Portfolio](https://byandrev.dev) | [Twitter](https://twitter.com/byandrev) | [Linkedin](https://www.linkedin.com/in/byandrev/)
+[Portfolio](https://byandrev.dev) | [Twitter](https://twitter.com/byandrev) | [Mastodon](https://mastodon.social/@byandrev) | [Linkedin](https://www.linkedin.com/in/byandrev/)
 
   
 </div>
@@ -31,4 +31,4 @@ HTML | CSS | Javascript | ReactJS | Firebase | Git | Python | NodeJS | FastAPI |
 
 Online code editor for teaching and learning, especially for programming skills.
 
-[Website](https://rpcide.vercel.app/)
+[Website](https://rpcide.cloud/)
