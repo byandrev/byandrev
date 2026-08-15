@@ -1,34 +1,23 @@
-<h1 align="center">I’m Andres Parra Garzon</h1>
+# Hi, I'm Andres 👋
 
-<div align="center">
-  
-[Portfolio](https://byandrev.dev) | [Twitter](https://twitter.com/byandrev) | [Mastodon](https://mastodon.social/@byandrev) | [Linkedin](https://www.linkedin.com/in/byandrev/)
+Software engineer based in [Cúcuta](https://en.wikipedia.org/wiki/C%C3%BAcuta), Colombia, finishing my Systems Engineering degree at [UFPS](https://ww2.ufps.edu.co/).
 
-  
-</div>
+I build backend and frontend systems, and I'm the founder of [RPCIDE](https://www.rpcide.com/en/), a competitive programming platform with 400+ active users. I write about what I learn on [my blog](https://www.byandrev.dev/posts).
 
+## Building
 
-**About me**
+- **[RPCIDE](https://www.rpcide.com/en/)** — online code editor and competitive programming platform
+- **[Scriio](https://scriio.vercel.app)** — read-to-learn English app
+- **[Hilo](https://byandrev.github.io/hilo/)** — lightweight, privacy-first, open-source comment engine for blogs and websites
+- **[ColombiaEscoge](https://colombiaescoge.com)** — election info platform for Colombia's 2026 elections
 
-I'm Frontend and Backend Developer from 🇨🇴 Colombia.
+## Stack
 
-  
-* 👀 I’m interested in the Web Development
-  
-* 🌱 I’m currently learning NodeJS
+`Java` `Spring Boot` `TypeScript` `Node.js` `Python` `FastAPI`
+`React` `Next.js` `Astro` `Tailwind CSS`
+`PostgreSQL` `MongoDB` `Redis`
+`Docker` `AWS` `CI/CD`
 
-<br />
+## Links
 
-**Languages and Tools**
-
-HTML | CSS | Javascript | ReactJS | Firebase | Git | Python | NodeJS | FastAPI | MongoDB
-
-
-<br />
-
-
-**RPC IDE**
-
-Online code editor for teaching and learning, especially for programming skills.
-
-[Website](https://rpcide.cloud/)
+[Portfolio](https://byandrev.dev) · [LinkedIn](https://linkedin.com/in/byandrev) · [Twitter](https://twitter.com/byandrev) · [Mastodon](https://mastodon.social/@byandrev)
